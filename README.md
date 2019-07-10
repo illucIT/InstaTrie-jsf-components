@@ -12,7 +12,7 @@ This package provides some JSF (Java Server Faces) components for the [InstaTrie
 **Copyright**: illucIT Software GmbH  
 **URL**: [www.illucit.com](https://www.illucit.com)  
 **License**: [The Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)  
-**Current Version**: 2.1.0
+**Current Version**: 1.0.0
 
 Setup
 -----
@@ -33,7 +33,7 @@ Usage in JSF
 ------------
 
 The library provides a taglib including the `outputHighlightedText` component.
-In order to use the component, first declare a namespace for the taglib in your JSF source file (where your also would include the namespace for PrimeFaces):
+In order to use the component, first declare a namespace for the taglib in your JSF source file:
 
 	<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
 		...
